@@ -1,8 +1,8 @@
 {
-  "name": "note-app",
+  "name": "notieapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Artluevil.github.io/simply-note-app",
+  "homepage": "https://Artluevil.github.io/notieapp/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "draft-js": "^0.10.5",
